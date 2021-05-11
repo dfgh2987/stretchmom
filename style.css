@@ -1,0 +1,41 @@
+h1 {
+      font-size: 50px;
+      text-align: center;
+      color:#ec865d;
+      border-width:10px;
+      border-color:#f1cd70;
+      border-style:double;
+      padding: 10px;
+    }
+
+    h2 {
+      color:#ec865d;
+      border-width:7px;
+      border-color:#f1cd70;
+      border-style:double;
+    }
+
+    a {
+        color:#ff78a8;
+    }
+
+    #biglist {
+      display:grid;
+      grid-template-columns: 300px 400px;
+    }
+
+    body {
+  background: linear-gradient(#f7efed, #f8efbb) fixed;
+  color: #e6357d;
+}
+
+div {
+  margin: 120px 0;
+  text-align: center;
+}
+p {
+  font-family: Meiryo, "Hiragino Kaku Gothic Pro W3", Courier New, sans-serif;
+  line-height: 1.5;
+  margin-bottom: 25px;
+  color: #fff;
+}
